@@ -10,6 +10,6 @@ int main(){
     student s1;
     s1.name="Shreyasi";
     s1.roll=183;
-    cout<<"My name is: "<<s1.name<<"\nand my roll number is "<<s1.roll<<endl;
+    cout<<"My name is: "<<s1.name<<"\n and my roll number is "<<s1.roll<<endl;
     return 0;
 }
